@@ -1,31 +1,31 @@
 ![Header](https://raw.githubusercontent.com/JuanVF/JuanVF/master/Banner.png "Header")
+
 ---
 # Hi, Welcome to my GitHub! 💜 [ENG/ES/Learning French]
 
-👋 Hi! I am a computer science student from Costa Rica Institute of Technology. 😄
-Right now I love working with Cloud Computing such as AWS, Backend or Frontend projects, any field that involves a design or creative process 🖌️
+👋 Hi! I am a Software Engineer. 😄
 
-You can checkout all about my hard skills down below 👇
+I have nearly three years of experience in software development, with a focus on system maintenance, automation, and streamlined deployment processes. I am proficient in using Go, Python, JavaScript, TypeScript, and other languages for various cloud-based projects.
 
----
-## Prefered langs
-
-Right now I use a lot Typescript and JS, but, i am open to learn any language 😄
-
-![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=BF0053)
-
+Below, you can find more details about my technical skills and projects.
 
 ---
-### Prefered OS
-I mostly work on Mac OS, but, I also work in Linux because i love it 💙
+## Preferred Languages
 
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=Windows&logoColor=white&color=3a86ff) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=8338ec) ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=3a86ff) 
+My primary coding language is Go, and I'm also skilled in Python, JavaScript, TypeScript, and others. I'm always open to learning new technologies and languages!
+
+![](https://img.shields.io/badge/Lang-Go-informational?style=flat&logo=Go&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=BF0053) ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=Java&logoColor=white&color=BF0053)
+
 ---
-## Libs
+### Preferred OS
 
-Here are the ones i use the most. 😊
+I mostly work on Linux, because of how easy you can write SH scripts and Makefiles for automating tasks!
 
-These weeks I've been trying a lot CDK, since it is pretty useful to deploy proyects to AWS.
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=8338ec) ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=3a86ff) 
+---
+## Libraries and Frameworks
+
+I frequently use Docker, Kubernetes, and Terraform among other tools to build efficient and scalable solutions.
 
 ![](https://img.shields.io/badge/Libs-React-informational?style=flat&logo=react&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/Libs-VueJS-informational?style=flat&logo=v&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/AWS-CDK-yellow)
 
@@ -33,11 +33,9 @@ These weeks I've been trying a lot CDK, since it is pretty useful to deploy proy
 
 ## Social Media 📱
 
-You can find me in:
+You can find me on:
 
-- Twitter [![Twitter][1.2]][1]
 - LinkedIn [![LinkedIn][2.2]][2]
-- Chronzy (About me)[![Chronzy][3.3]][3]
 
 Or you can email me at: juanvfletes@gmail.com
 
